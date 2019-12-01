@@ -1,8 +1,5 @@
-Fly-Fly-Bird
+<a href="https://fly-fly-bird.github.io/">Fly-Fly-Bird</a>
 ===========
 
 
 ![](http://i.imgur.com/Slbvt65.png)
-
-
-Играй сейчас! http://ellisonleao.github.io/clumsy-bird/
