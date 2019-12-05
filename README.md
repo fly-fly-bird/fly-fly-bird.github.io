@@ -2,4 +2,4 @@
 ===========
 
 
-![](http://i.imgur.com/Slbvt65.png)
+<img src="kartinka.jpg">
