@@ -1,6 +1,6 @@
 var game = {
     data: {
-        score : 0,
+        счёт : 0,
         steps: 0,
         start: false,
         newHiScore: false,
