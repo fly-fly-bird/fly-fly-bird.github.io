@@ -2,4 +2,4 @@
 ===========
 
 
-<img src="kartinka.jpg">
+<img src="<Безымянный.png">
